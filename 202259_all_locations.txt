@@ -1,0 +1,20 @@
+Matched
+Aceh
+Gorontalo
+Bangka-Belitung Islands
+Kalimantan Timur
+Papua
+Papua Barat
+Maluku
+Maluku Utara
+Riau
+Kepulauan Riau
+Sulawesi Selatan
+Sulawesi Tenggara
+Sulawesi Barat
+Sulawesi Utara
+Nusa Tenggara Barat
+Nusa Tenggara Timur
+Sulawesi Tengah
+
+Errors
